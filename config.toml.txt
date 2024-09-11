@@ -1,0 +1,3 @@
+[client]
+id = 7458402118-hdauo3ar6e7stmhd7ius06q53491404b.apps.googleusercontent.com
+secret = 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
